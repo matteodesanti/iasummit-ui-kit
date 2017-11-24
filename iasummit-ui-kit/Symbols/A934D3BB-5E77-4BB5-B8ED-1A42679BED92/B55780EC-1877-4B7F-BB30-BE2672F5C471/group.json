@@ -1,0 +1,90 @@
+{
+  "_class": "group",
+  "do_objectID": "B55780EC-1877-4B7F-BB30-BE2672F5C471",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 266,
+    "width": 348,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3B1DBBB4-CF17-4424-A9E4-DEAF64632EF5"
+    },
+    {
+      "class": "group",
+      "id": "A9531F89-DC2F-4040-B7CE-24F1CE2BBE1E"
+    },
+    {
+      "class": "text",
+      "id": "23DF2CF3-534F-4AB6-8EB6-79FE239FA309"
+    },
+    {
+      "class": "text",
+      "id": "A6EC3396-C882-4C20-84CD-5408ECB42C39"
+    },
+    {
+      "class": "text",
+      "id": "74E8A4FA-E191-4EF1-A9B1-CFC42756C44F"
+    }
+  ],
+  "name": "card",
+  "nameIsFixed": true,
+  "originalObjectID": "B55780EC-1877-4B7F-BB30-BE2672F5C471",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 20,
+        "color": {
+          "_class": "color",
+          "alpha": 0.1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 5,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

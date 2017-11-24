@@ -1,0 +1,80 @@
+{
+  "_class": "group",
+  "do_objectID": "19B26DB3-108D-4C59-BAB9-66106906EEFB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 15,
+    "width": 31,
+    "x": 79.03361344537814,
+    "y": 16.17650384441436
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F4A55303-A858-44F9-A804-EFA2B9B1D1E5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "609EE25A-C011-4951-B432-DBF6AF75A72F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FCDED47C-C31D-436D-BE01-BF41E4E0852B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E71EA3BF-8867-4FDC-80EE-87A4E982E4D5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DFE9BA50-7ACA-4D8A-982A-CE7E179E4CB3"
+    }
+  ],
+  "name": "Logo_Spid_Ufficiale",
+  "nameIsFixed": false,
+  "originalObjectID": "19B26DB3-108D-4C59-BAB9-66106906EEFB",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

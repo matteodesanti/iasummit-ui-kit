@@ -1,0 +1,96 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 108,
+  "do_objectID": "D590EE51-7064-4DF0-9F8C-85F32834A8E4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 113,
+    "width": 341,
+    "x": 0,
+    "y": 3157
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9AFF7A87-3332-493D-8A61-F3C3DA2AA97E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "060601BF-7A75-4524-BF8D-779AA9179116"
+    },
+    {
+      "class": "group",
+      "id": "849BB904-0E3E-4576-8117-C10146600EEF"
+    },
+    {
+      "class": "group",
+      "id": "B2818C14-2535-40FA-90FA-6F96E41790E2"
+    },
+    {
+      "class": "group",
+      "id": "45D963B6-B70C-4D26-B9B6-86AEA33FB00B"
+    },
+    {
+      "class": "text",
+      "id": "91AA3CE2-5532-4D08-ACAE-B808E93C0420"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3C3A1F0C-9A21-4A7C-86F0-24C3B8BF45E5"
+    }
+  ],
+  "name": "item/Carta di Credito",
+  "nameIsFixed": true,
+  "originalObjectID": "D590EE51-7064-4DF0-9F8C-85F32834A8E4",
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "59E1DCE8-1EB7-4540-93F9-844BEA8167B8",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "48BB63BB-77AE-4896-A20C-FE766D347D76",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 311,
+    "x": 20,
+    "y": 161
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "31F6D79B-F743-4AC3-AD8E-7C21CC28FC75"
+    },
+    {
+      "class": "text",
+      "id": "818CACC2-51BF-4A80-AD2B-178DC98BBD88"
+    }
+  ],
+  "name": "label 2",
+  "nameIsFixed": true,
+  "originalObjectID": "48BB63BB-77AE-4896-A20C-FE766D347D76",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "destinationArtboardID": "8AC2B918-26D0-4CBE-9235-2B79409A785F"
+    },
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

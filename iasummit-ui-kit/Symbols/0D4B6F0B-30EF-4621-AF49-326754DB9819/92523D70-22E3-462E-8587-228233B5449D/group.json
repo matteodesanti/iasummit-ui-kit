@@ -1,0 +1,76 @@
+{
+  "_class": "group",
+  "do_objectID": "92523D70-22E3-462E-8587-228233B5449D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 84,
+    "width": 311,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7C346390-49C1-48FC-964E-7F6E5726BBA3"
+    },
+    {
+      "class": "text",
+      "id": "D14FD4A5-A045-4E8E-810F-806B70BC7013"
+    },
+    {
+      "class": "text",
+      "id": "F9ACC21E-27B3-4692-80EF-6D9A286A76C8"
+    },
+    {
+      "class": "text",
+      "id": "57C33C60-3827-435F-B03D-234328F72854"
+    },
+    {
+      "class": "text",
+      "id": "CAB42C8B-83E2-4729-8285-4E6DFED179E9"
+    },
+    {
+      "class": "text",
+      "id": "D48C49B0-E41A-4A9A-ABC3-66BA41886414"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "05F026FD-938A-479C-AF32-C66258E20791"
+    }
+  ],
+  "name": "Carta di Credito",
+  "nameIsFixed": false,
+  "originalObjectID": "92523D70-22E3-462E-8587-228233B5449D",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

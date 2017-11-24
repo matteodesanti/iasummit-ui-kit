@@ -1,0 +1,110 @@
+{
+  "_class": "group",
+  "do_objectID": "5D15EE5B-9D17-485B-BD3F-7CB0844157D4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 574,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "ED994A8F-A4E6-43FF-818B-425A12456FE5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "320D7E6E-1AEE-4FCE-A1A6-AB75796D7796"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E3710C6B-E104-4FB5-8734-3FFDA4E2FADF"
+    },
+    {
+      "class": "text",
+      "id": "D4D23C73-2570-4860-8E57-48B4D7D1F842"
+    },
+    {
+      "class": "text",
+      "id": "18BCC069-C2C5-487B-B7FE-A2794EE4E8FC"
+    },
+    {
+      "class": "text",
+      "id": "6B479043-1657-4FA3-AC49-6CE84B3E0BE8"
+    },
+    {
+      "class": "group",
+      "id": "CD3F9D0B-6A29-4295-94E9-70866C780E55"
+    },
+    {
+      "class": "text",
+      "id": "1DF1B347-649B-49F1-B08A-F686C074B16D"
+    },
+    {
+      "class": "text",
+      "id": "04B35E3F-58D5-48CD-B2D9-FC14FA9CA1E7"
+    },
+    {
+      "class": "text",
+      "id": "63B97CB8-3EA5-44EA-96BC-9632EF9FE682"
+    }
+  ],
+  "name": "card",
+  "nameIsFixed": true,
+  "originalObjectID": "5D15EE5B-9D17-485B-BD3F-7CB0844157D4",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 20,
+        "color": {
+          "_class": "color",
+          "alpha": 0.1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 5,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

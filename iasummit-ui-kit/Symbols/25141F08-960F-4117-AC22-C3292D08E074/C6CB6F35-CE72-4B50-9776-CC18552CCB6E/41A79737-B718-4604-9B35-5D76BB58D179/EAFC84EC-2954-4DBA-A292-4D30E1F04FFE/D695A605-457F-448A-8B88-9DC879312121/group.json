@@ -1,0 +1,80 @@
+{
+  "_class": "group",
+  "do_objectID": "D695A605-457F-448A-8B88-9DC879312121",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 31,
+    "width": 78,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "71D06C71-494F-46BF-94EB-33A455294548"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D2E2FE97-E487-4384-8180-652C84ADA0F8"
+    },
+    {
+      "class": "group",
+      "id": "9B8EA421-98C6-4C6A-BD49-A77A8F1790A2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AE23753A-BF0E-4250-A974-C243CA920F2E"
+    },
+    {
+      "class": "group",
+      "id": "26627D64-D28A-42A0-BD4D-9B972C0F1EE9"
+    }
+  ],
+  "name": "Logo_PosteID_ufficiale",
+  "nameIsFixed": false,
+  "originalObjectID": "D695A605-457F-448A-8B88-9DC879312121",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

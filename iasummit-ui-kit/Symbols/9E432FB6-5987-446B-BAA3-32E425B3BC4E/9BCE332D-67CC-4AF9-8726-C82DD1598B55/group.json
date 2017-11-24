@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "9BCE332D-67CC-4AF9-8726-C82DD1598B55",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 48,
+    "width": 47.99999999999999,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "AB818F02-F67E-4DDD-9217-FB6471526BF8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1F41C11A-4C81-4FED-91E1-8B3530153101"
+    }
+  ],
+  "name": "Icon/Credit card",
+  "nameIsFixed": false,
+  "originalObjectID": "9BCE332D-67CC-4AF9-8726-C82DD1598B55",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
